@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Akkru</string>
+    <string name="username_hint">Username</string>
+    <string name="passeword_hint">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signup_link">New User? Sign Up</string>
+    <string name="insuranceId">Insurance ID</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">last Name</string>
+    <string name="city">City</string>
+    <string name="contactInfo">Contact Info</string>
+    <string name="email">Email</string>
+    <string name="signup">SIGN UP</string>
+    <string name="gladtosee">Glad to see you!</string>
+    <string name="create_account">Create an account</string>
+    <string name="drink_coffee">Drink coffee and prepare your future in one sip</string>
+    <string name="continue_email">CONTINUE WITH EMAIL</string>
+    <string name="login_later">i\'ll login later</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bar">Bar</string>
+    <string name="cafe">Cafe</string>
+    <string name="recomendation">Recomendation for you</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="credit_exchange">Credit Exchange</string>
+    <string name="profile">Profile</string>
+    <string name="hi_widyarindu">Hi , Widyarindu!</string>
+</resources>
